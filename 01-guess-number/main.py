@@ -7,7 +7,7 @@ print("I am thinkg of a number between 1 and 100")
 
 level = input("Choose a dificult. Type easy or hard: ").lower()
 
-computer_choice = random.randint(1, 101)
+computer_choice = random.randint(1, 100)
 n = 0
 flat = True
 
