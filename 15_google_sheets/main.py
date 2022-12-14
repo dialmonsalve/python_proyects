@@ -54,8 +54,6 @@ for exercise in result["exercises"]:
 			PASSWORD,
 		)
 	)
-
-
-
+print(sheet_response.text)
 
 
