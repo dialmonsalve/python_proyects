@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"window.zoomLevel": 1,
+		"workbench.colorTheme": "Ocean High Contrast",
+		"terminal.integrated.defaultProfile.windows": "Git Bash"
+	}
+}
